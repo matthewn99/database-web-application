@@ -28,7 +28,7 @@ The system models realistic relationships between entities and ensures data cons
 
 ## Screenshots
 
-<img width="1529" height="711" alt="image of webapp" src="https://github.com/user-attachments/assets/6b50ec2f-5db1-49e7-9eb5-00163bc93980" />
+![Application Screenshot](https://github.com/matthewn99/database-web-application/blob/main/docs/Application%20Screenshot.png?raw=true)
 
 ---
 
