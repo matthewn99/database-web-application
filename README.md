@@ -26,6 +26,12 @@ The system models realistic relationships between entities and ensures data cons
 
 ---
 
+## Screenshots
+
+<img width="1529" height="711" alt="image of webapp" src="https://github.com/user-attachments/assets/6b50ec2f-5db1-49e7-9eb5-00163bc93980" />
+
+---
+
 ## Technologies Used
 
 - **Java (JDBC)** – data generation and database insertion  
