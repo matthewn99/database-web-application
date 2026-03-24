@@ -2,9 +2,10 @@
 import java.sql.*;
 
 class Database {
-    private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@oracle-lab.cs.univie.ac.at:1521:lab";
-    private static final String USER = "a12033416";
-    private static final String PASS = "dbs21";
+    // Database credentials are not included in this repository. Please configure your own connection details in <placeholder>
+    private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@<host>:<port>:<db>";
+    private static final String USER = "<username>";
+    private static final String PASS = "<password>";
 
     private static final String Database = "oracle.jdbc.driver.OracleDriver";
     private static Statement stmt;
